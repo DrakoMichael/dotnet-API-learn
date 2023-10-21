@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using Microsoft.Net.Http.Headers;
-using dotnet_API_learn.Entities
+using dotnet_API_learn.Entities;
 
 namespace dotnet_API_learn.Context
 {
