@@ -1,0 +1,10 @@
+Esse projeto usa o Entity FrameWork, que nos permite a integração com o banco de dados, criação, modificação de tabelas, sem a neessidade de escrever comandos SQL e de forma automatizada.
+Para usar atraves do Swagger UI use o comando: dotnet watch run.
+
+appsettings.Development.json e appsettings.json são os arquivos de conf
+de rota para o servidor (como em "ConnectionStrings").
+
+na pasta Entities é onde esta a entidade para trabalhar na API que também é usado no banco de dados.
+
+Na pasta Context, existe a classe que acessa o banco de dados, é onde realiza a conexão.
+
